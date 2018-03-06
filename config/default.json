@@ -1,0 +1,9 @@
+{
+  "SERVER": {
+    "PORT": "3000",
+    "JWT_SECRET": "noA89k4dyxH7PHJaNSF4pO0IirXpvseB"
+  },
+  "DB": {
+    "MONGO_URI": "mongodb://localhost:27017/MyBoilerPlate"
+  }
+}
